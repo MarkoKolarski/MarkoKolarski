@@ -2,7 +2,7 @@
 
 **`Information Engineering student`**
 
-I’m an enthusiastic Information Engineering student with a passion for transforming ideas into impactful solutions through technology. Driven by curiosity and collaboration, I thrive in team environments, working on innovative projects that combine creativity to transform ideas into fully realized solutions.
+I’m an Information Engineering student with a passion for transforming ideas into impactful solutions through technology. Driven by curiosity and collaboration, I thrive in team environments, working on innovative projects that combine creativity to transform ideas into fully realized solutions.
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-kolarski/)
 
