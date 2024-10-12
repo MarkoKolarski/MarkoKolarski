@@ -2,7 +2,9 @@
 
 **`Information Engineering student`**
 
-I’m an Information Engineering student with a passion for transforming ideas into impactful solutions through technology. Driven by curiosity and collaboration, I thrive in team environments, working on innovative projects that combine creativity to transform ideas into fully realized solutions.
+4th year student majoring in Information Engineering at the Faculty of Technical Sciences in Novi Sad.
+Team-oriented, able to independently overcome challenges with innovative solutions. Always open to new ideas, continuous improvement and personal development.
+
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-kolarski/)
 
