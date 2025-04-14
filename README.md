@@ -1,3 +1,5 @@
+# 👨‍💻 Marko Kolarski
+
 ## 👋 About
 
 Focused on advancing in the fields of **Machine Learning**, **Deep Learning**, and **AI-driven systems**, with a passion for solving real-world problems through intelligent software. Experienced in designing, training, and evaluating models at the intersection of code and data.
