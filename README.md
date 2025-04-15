@@ -1,6 +1,4 @@
-# 👨‍💻 Marko Kolarski
-
-## 👋 About
+## 👨‍💻 About
 
 Focused on advancing in the fields of **Machine Learning**, **Deep Learning**, and **AI-driven systems**, with a passion for solving real-world problems through intelligent software. Experienced in designing, training, and evaluating models at the intersection of code and data.
 
@@ -13,16 +11,20 @@ Combines hands-on development with strong theoretical foundations in:
 
 Whether it's building custom neural architectures, fine-tuning LLMs, or engineering end-to-end pipelines, always striving to push the boundaries of what intelligent systems can achieve.
 
+---
+
+## 📬 Connect
+
+Feel free to reach out or follow my work here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marko-kolarski/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:marko.kolarski.02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-8A2BE2?style=for-the-badge&logo=github)](https://github.com/MarkoKolarski?tab=repositories)
+
+---
 
 ## 🔧 Tech Stack
 
-### 💡 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
 ### 🤖 AI/ML Libraries & Deep Learning
 <p align="left">
@@ -51,6 +53,14 @@ Whether it's building custom neural architectures, fine-tuning LLMs, or engineer
   <img src="https://img.shields.io/badge/Recall@K-5C6BC0?style=for-the-badge&logo=metrics&logoColor=white" />
 </p>
 
+### 💡 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 ### 🌐 Web & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -60,5 +70,3 @@ Whether it's building custom neural architectures, fine-tuning LLMs, or engineer
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
-
----
