@@ -1,6 +1,6 @@
 ## 👨‍💻 About
 
-Software Engineer specializing in Machine Learning and AI Engineering with hands-on experience building intelligent systems that transform complex data into real-world value. Currently pursuing a B.Sc. in Information Engineering at the University of Novi Sad with focus on Data Science, ML, and Software Engineering.
+Final-year Information Engineering (Data Science) student at Faculty of Technical Sciences, University of Novi Sad. My focus spans Machine Learning, AI Engineering, Data Science, and Software Engineering.
 
 I've developed RAG systems, NLP solutions, and full-stack applications backed by modern DevOps practices, with particular expertise in:
 
@@ -8,8 +8,8 @@ I've developed RAG systems, NLP solutions, and full-stack applications backed by
 - 🤖 **AI Systems & Transformers**
 - 📊 **Data Science & Analytics**
 - 🌐 **Full-Stack Web Development**
-
-Whether it's building document-grounded RAG systems, implementing LLM listwise rerankers, or creating full-stack applications with real-time monitoring, I'm passionate about developing solutions at the intersection of code and data.
+  
+Whether it's designing RAG systems, fine-tuning LLMs, building intelligent data pipelines, or developing robust full-stack platforms with real-time analytics and monitoring, I'm deeply interested in crafting scalable, data-driven solutions that bridge cutting-edge AI with practical software engineering.
 
 ---
 
