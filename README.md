@@ -1,13 +1,9 @@
----
-
 ## 📬 Connect
 
 Feel free to reach out or follow my work here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-kolarski/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:marko.kolarski.02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://markokolarski.github.io/)
-
 
 ---
 
