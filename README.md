@@ -1,14 +1,3 @@
-## 📬 Connect
-
-Feel free to reach out or follow my work here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-kolarski/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:marko.kolarski.02@gmail.com)
-
----
-
-## 🔧 Tech Stack
-
 ### 🤖 ML / AI & Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -56,3 +45,23 @@ Feel free to reach out or follow my work here:
   <img src="https://img.shields.io/badge/NCNN-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-BC1142?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
+
+---
+
+## 📄 Research & Publications
+
+**Edge-Driven Orchard Analytics: Automated Treetop Detection using YOLOv11**  
+*Published at MIPRO 2026 – 49th ICT and Electronics Convention, Opatija, Croatia*
+
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11591804)
+
+Co-authored and led the technical implementation of this paper, developed as part of the Horizon Europe project **CrackSense**. The work presents an edge-computing pipeline for automated treetop detection and instance segmentation in citrus orchards using YOLOv11, deployed on edge devices to minimize data transmission and enable on-site inference in low-connectivity environments.
+
+---
+
+## 📬 Connect
+
+Feel free to reach out or follow my work here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-kolarski/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:marko.kolarski.02@gmail.com)
